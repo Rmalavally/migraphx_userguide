@@ -1,6 +1,6 @@
 <table width="100%" align="center">
  <tr width="100%" align="center">
-    <td align="center"><img src="https://github.com/anubhavamd/migraphx_userguide/blob/main/amd_final_demo.png" width=""/><h1>MiGraphX Guides</h1>
+    <td align="center"><img src="https://github.com/anubhavamd/migraphx_userguide/blob/main/amd_final_demo.png" width=""/><h1>MiGraphX Documentation (Draft)</h1>
     </td>
  </tr>
 </table>
